@@ -1,1 +1,14 @@
+VERSION="2.0.0"
 
+Access-Control-Allow-Origin: *
+content-type: text/plain
+
+[DOCUMENTATION]
+ORG_NAME="SDeYKan"
+ORG_DBA="None"
+ORG_URL="https://www.runkit.com/sdeykan"
+ORG_LOGO=""
+ORG_PHYSICAL_ADDRESS="Puerta del Sol St. num.14"
+ORG_OFFICIAL_EMAIL="stellarsdeykantest@gmail.com"
+ORG_DESCRIPTION="This is a test stellar.toml file for a fictional organization"
+SQ02_EASTER_EGG="Log into series 2 of Stellar Quest then visit quest.stellar.org/series2. Finally drag and drop your Stellar Quest series 2 badge PNG images onto the screen. Enjoy!"
