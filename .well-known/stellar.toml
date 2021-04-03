@@ -1,5 +1,8 @@
 VERSION="2.0.0"
 
+Access-Control-Allow-Origin: *
+content-type: text/plain
+
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 FEDERATION_SERVER="https://api.domain.com/federation"
 TRANSFER_SERVER="https://api.domain.com"
