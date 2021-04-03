@@ -1,8 +1,5 @@
 VERSION="2.0.0"
 
-Access-Control-Allow-Origin: *
-content-type: text/plain
-
 [DOCUMENTATION]
 ORG_NAME="SDeYKan"
 ORG_DBA="None"
