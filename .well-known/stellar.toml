@@ -1,4 +1,5 @@
 VERSION="2.0.0"
+
 SQ02_EASTER_EGG="Log into series 2 of Stellar Quest then visit quest.stellar.org/series2. Finally drag and drop your Stellar Quest series 2 badge PNG images onto the screen. Enjoy!"
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 SIGNING_KEY="GBPGSCAJJSCPKZJ4I55NPPUAIXSYRUDN3IXOIW7CZTSU7BDZ6XSOGYTY"
@@ -10,7 +11,7 @@ ACCOUNTS=[
 [DOCUMENTATION]
 ORG_NAME="Organization Name"
 ORG_DBA="Organization DBA"
-ORG_URL="https://github.com/SDeYKan/1/blob/main"
+ORG_URL="https://www.github.com/SDeYKan/1/raw/main"
 ORG_LOGO="https://www.domain.com/awesomelogo.png"
 ORG_DESCRIPTION="Description of issuer"
 ORG_PHYSICAL_ADDRESS="123 Sesame Street, New York, NY 12345, United States"
