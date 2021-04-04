@@ -1,0 +1,3 @@
+# Finally! Functional stellar.toml file hosted in github for my 8th challenge at stellar quest, after hours of trying.
+# Raw file version url was needed in order to be a valid TOML readable file.
+# Was hard to fit that long url in a 32 bit space so I needed the source url to the raw file that would then redirect to stellar.toml
