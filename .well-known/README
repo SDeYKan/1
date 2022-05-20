@@ -1,3 +1,6 @@
 # Finally! Functional stellar.toml file hosted in github for my 8th challenge at stellar quest, after hours of trying.
 # Raw file version url was needed in order to be a valid TOML readable file.
 # Was hard to fit that long url in a 32 bit space so I needed the source url to the raw file that would then redirect to stellar.toml
+# How I did this: In order for the toml file to be "valid" in this challenge, its URL would need to point to wherever it was hosted.
+# I didn't know how would I host such a file while keeping the url under 32 bits-
+# But finally, after changing repo and branch name in github to the adequates, I achieved a <32bits URL where the file was hosted.
